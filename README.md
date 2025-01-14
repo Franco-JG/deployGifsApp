@@ -8,7 +8,11 @@ Esta es una aplicación creada con **Angular 16** que consume la API de **Giphy*
 
 ### ✨ Funcionalidades  
 - 🔍 **Búsqueda de GIFs**: Introduce una palabra o frase para encontrar GIFs relacionados.  
-- 🖼️ **Interfaz amigable**: Los resultados se muestran en un layout organizado que se adapta a diferentes tamaños de pantalla.  
+- 🖼️ **Interfaz amigable**: Los resultados se muestran en un layout organizado que se adapta a diferentes tamaños de pantalla.
+
+### 🌐 Despliegue  
+Puedes probar la aplicación en el siguiente enlace:  
+[👉 GIF Search App - Deploy](https://franco-jg.github.io/deployGifsApp/)    
 
 ### 🛠️ Cómo usar  
 1. Ingresa una búsqueda en el campo principal.  
